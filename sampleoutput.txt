@@ -1,0 +1,250 @@
+
+----NEW SAMPLE----
+Sample: 1
+
+Restoring: 
+Quotient: 11110
+Remainder: 11111
+Num Additions: 4
+Num Subtractions: 5
+Num Iterations: 5
+
+NonRestoring: 
+Quotient: 11110
+Remainder: 11111
+Num Additions: 3
+Num Subtractions: 2
+Num Iterations: 5
+
+----NEW SAMPLE----
+Sample: 2
+
+Restoring: 
+Quotient: 10001
+Remainder: 00010
+Num Additions: 1
+Num Subtractions: 5
+Num Iterations: 5
+
+NonRestoring: 
+Quotient: 10001
+Remainder: 00010
+Num Additions: 1
+Num Subtractions: 4
+Num Iterations: 5
+
+----NEW SAMPLE----
+Sample: 3
+
+Restoring: 
+Quotient: 11111
+Remainder: 01000
+Num Additions: 4
+Num Subtractions: 5
+Num Iterations: 5
+
+NonRestoring: 
+Quotient: 11111
+Remainder: 01000
+Num Additions: 4
+Num Subtractions: 1
+Num Iterations: 5
+
+----NEW SAMPLE----
+Sample: 4
+
+Restoring: 
+Quotient: 01110
+Remainder: 10111
+Num Additions: 3
+Num Subtractions: 5
+Num Iterations: 5
+
+NonRestoring: 
+Quotient: 01110
+Remainder: 10111
+Num Additions: 2
+Num Subtractions: 3
+Num Iterations: 5
+
+----NEW SAMPLE----
+Sample: 5
+
+Restoring: 
+Quotient: 0111111
+Remainder: 0000000
+Num Additions: 1
+Num Subtractions: 7
+Num Iterations: 7
+
+NonRestoring: 
+Quotient: 0111111
+Remainder: 0000000
+Num Additions: 1
+Num Subtractions: 6
+Num Iterations: 7
+
+----NEW SAMPLE----
+Sample: 6
+
+Restoring: 
+Quotient: 1011001
+Remainder: 0001111
+Num Additions: 3
+Num Subtractions: 7
+Num Iterations: 7
+
+NonRestoring: 
+Quotient: 1011001
+Remainder: 0001111
+Num Additions: 3
+Num Subtractions: 4
+Num Iterations: 7
+
+----NEW SAMPLE----
+Sample: 7
+
+Restoring: 
+Quotient: 1000100
+Remainder: 0011111
+Num Additions: 5
+Num Subtractions: 7
+Num Iterations: 7
+
+NonRestoring: 
+Quotient: 1000100
+Remainder: 0011111
+Num Additions: 4
+Num Subtractions: 3
+Num Iterations: 7
+
+----NEW SAMPLE----
+Sample: 8
+Divide Overflow Occured
+
+----NEW SAMPLE----
+Sample: 9
+
+Restoring: 
+Quotient: 011111111
+Remainder: 000000000
+Num Additions: 1
+Num Subtractions: 9
+Num Iterations: 9
+
+NonRestoring: 
+Quotient: 011111111
+Remainder: 000000000
+Num Additions: 1
+Num Subtractions: 8
+Num Iterations: 9
+
+----NEW SAMPLE----
+Sample: 10
+Divide Overflow Occured
+
+----NEW SAMPLE----
+Sample: 11
+
+Restoring: 
+Quotient: 001111000
+Remainder: 000000000
+Num Additions: 5
+Num Subtractions: 9
+Num Iterations: 9
+
+NonRestoring: 
+Quotient: 001111000
+Remainder: 000000000
+Num Additions: 4
+Num Subtractions: 5
+Num Iterations: 9
+
+----NEW SAMPLE----
+Sample: 12
+
+Restoring: 
+Quotient: 111110001
+Remainder: 001000110
+Num Additions: 5
+Num Subtractions: 9
+Num Iterations: 9
+
+NonRestoring: 
+Quotient: 111110001
+Remainder: 001000110
+Num Additions: 5
+Num Subtractions: 4
+Num Iterations: 9
+
+----NEW SAMPLE----
+Sample: 13
+
+Restoring: 
+Quotient: 11111111111
+Remainder: 00000000000
+Num Additions: 0
+Num Subtractions: 11
+Num Iterations: 11
+
+NonRestoring: 
+Quotient: 11111111111
+Remainder: 00000000000
+Num Additions: 0
+Num Subtractions: 11
+Num Iterations: 11
+
+----NEW SAMPLE----
+Sample: 14
+
+Restoring: 
+Quotient: 10000100010
+Remainder: 01010101110
+Num Additions: 8
+Num Subtractions: 11
+Num Iterations: 11
+
+NonRestoring: 
+Quotient: 10000100010
+Remainder: 01010101110
+Num Additions: 7
+Num Subtractions: 4
+Num Iterations: 11
+
+----NEW SAMPLE----
+Sample: 15
+Divide Overflow Occured
+
+----NEW SAMPLE----
+Sample: 16
+
+Restoring: 
+Quotient: 00111111010
+Remainder: 10111110000
+Num Additions: 4
+Num Subtractions: 11
+Num Iterations: 11
+
+NonRestoring: 
+Quotient: 00100100001
+Remainder: 01110011000
+Num Additions: 5
+Num Subtractions: 6
+Num Iterations: 11
+
+----NEW SAMPLE----
+Sample: 17
+
+Restoring: 
+Quotient: 0111111111111
+Remainder: 0000000000000
+Num Additions: 1
+Num Subtractions: 13
+Num Iterations: 13
+
+NonRestoring: 
+Quotient: 0111111111111
+Remainder: 0000000000000
+Num Additions: 1
+Num Subtractions: 12
+Num Iterations: 13
